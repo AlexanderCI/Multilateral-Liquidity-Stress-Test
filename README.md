@@ -1,6 +1,6 @@
 # Multilateral Liquidity Risk Model
 
-This is a simplified academic simulation I built using the stochastic modelling and probability concepts from my UofT coursework. 
+This is a simplified project simulation I built using the stochastic modelling and probability concepts from my UofT coursework. 
 
 The goal of this script is to look at how a multi-currency defence balance sheet (like the upcoming DSRB) might handle random shocks and currency devaluations and capital delays over a basic 30-day window (assume 30 days for now...)
 
