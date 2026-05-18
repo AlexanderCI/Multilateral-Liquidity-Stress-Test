@@ -7,4 +7,4 @@ The goal of this script is to look at how a multi-currency defence balance sheet
 ### Important Assumptions:
 * Uses a basic random normal distribution to simulate non-CAD cash pools fluctuating.
 * Uses a binomial trial to model a 10% chance of an allied nation delaying their funding injections.
-* Calculates the resulting LCR across 2,000 randomized simulation runs.
+* Calculates the resulting LCR across 2000 randomized simulations.
